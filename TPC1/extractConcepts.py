@@ -3,7 +3,7 @@ import os
 import sys
 import json
 
-__DEBUG = False
+__DEBUG = True
 __dirname = os.path.dirname(__file__)
 
 def trace(*args):
@@ -86,7 +86,7 @@ def processConcept(c):
 
         c = c[candidateMatch.end():]
         candidate = candidateMatch.group(1).strip()
-        if (len(candidate) >= 1):
+        if (len(candidate) > 1):
             # New language
             clangs[candidate] = []
             lastLang = candidate
@@ -97,6 +97,7 @@ def processConcept(c):
         _langContent = matchGroupOrNone(r"\s*((<text .+? font=\"7\">.+?</text>\n)+)", c)
         if (_langContent != None):
             langContent = re.sub(r"<text .+? font=\"7\"><i>(.+?)</i></text>", r"\1", _langContent).replace("\n", "")
+            langContent = re.sub(r" {2,}", " ", langContent).strip()
             clangs[lastLang].append(langContent)
 
     print("cid:  |", cid, "|")

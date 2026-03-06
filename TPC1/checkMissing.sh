@@ -10,5 +10,5 @@ elif [ "$1" == "jsonout" ]; then
     jq 'keys | map(tonumber) | sort' $IN | rg -N '\s+(\d+),' -r '$1' \
         | sort -n | awk 'NR==1{prev=$1; next} {for(i=prev+1;i<$1;i++) print i; prev=$1}';
 else
-    echo "${0##*/} <stdout|jsonout>"
+    echo "${0##*/} <stdout|jsonout> [ficheiro]"
 fi
