@@ -1,0 +1,366 @@
+
+Entity Pair                                    Co-occurrences
+--------------------------------------------------------------
+hermione /// rony                                          68
+hermione /// neville                                       13
+neville /// rony                                           11
+draco /// rony                                             11
+duda /// tia petúnia                                       10
+duda /// válter                                            10
+duda /// pedro                                             10
+hagrid /// rony                                            10
+fred /// jorge                                              9
+crabbe /// goyle                                            9
+rony /// snape                                              9
+draco /// goyle                                             9
+hagrid /// hermione                                         9
+draco /// neville                                           8
+hermione /// snape                                          7
+crabbe /// draco                                            7
+malfoy /// neville                                          7
+fred /// jorge weasley                                      6
+quirrell /// snape                                          6
+dumbledore /// hagrid                                       5
+tia petúnia /// válter                                      5
+goyle /// rony                                              5
+hagrid /// snape                                            5
+draco /// snape                                             5
+dumbledore /// minerva                                      4
+flamel /// rony                                             4
+malfoy /// rony                                             4
+canino /// malfoy                                           4
+snape /// voldemort                                         4
+duda /// dursley                                            3
+rony /// voldemort                                          3
+dumbledore /// nicolau flamel                               3
+hermione granger /// neville                                3
+acho /// rony                                               3
+neville /// simas                                           3
+madame hooch /// neville                                    3
+draco /// hermione                                          3
+hagrid /// neville                                          3
+hermione /// malfoy                                         3
+harry /// hermione                                          3
+canino /// neville                                          3
+quirrell /// voldemort                                      3
+duda /// sr. dursley                                        2
+lílian /// tiago potter                                     2
+dursley /// pedro                                           2
+duda /// tio válter                                         2
+dursley /// válter                                          2
+tia petúnia /// tio válter                                  2
+duda /// petúnia                                            2
+gringotes /// hagrid                                        2
+hagrid /// tom                                              2
+hagrid /// madame malkin                                    2
+monitor /// percy                                           2
+goyle /// perebas                                           2
+perebas /// rony                                            2
+flitwick /// snape                                          2
+minerva /// snape                                           2
+goyle /// malfoy                                            2
+crabbe /// malfoy                                           2
+carlinhos /// rony                                          2
+gringotes /// rony                                          2
+dino /// rony                                               2
+minerva /// wood                                            2
+hermione /// parvati                                        2
+minerva /// rony                                            2
+lino jordan /// weasley                                     2
+harry /// rony                                              2
+neville /// snape                                           2
+dumbledore /// snape                                        2
+crabbe /// rony                                             2
+goyle /// neville                                           2
+fofo /// quirrell                                           2
+herbologia /// rony                                         2
+herbologia /// hermione                                     2
+canino /// hagrid                                           2
+hagrid /// malfoy                                           2
+canino /// hermione                                         2
+dumbledore /// rony                                         2
+dumbledore /// edwiges                                      2
+duda /// dudley                                             1
+eduardo /// “                                               1
+hum /// pigarreou                                           1
+imaginei /// profa                                          1
+lílian /// tiago...                                         1
+dumbledore /// francamente                                  1
+casa dos dursley /// dumbledore                             1
+hagrid /// psiu                                             1
+minerva /// professor dumbledore                            1
+enxugando /// hagrid                                        1
+seu patinhas /// tobias                                     1
+néris /// seu patinhas                                      1
+néris /// tobias                                            1
+duda /// pedro polkiss                                      1
+pedro polkiss /// tia petúnia                               1
+duda /// meia                                               1
+meia /// pedro                                              1
+dursley /// meia                                            1
+pedro /// tio válter                                        1
+cartola /// duda                                            1
+duda /// górdon                                             1
+duda /// dênis                                              1
+dênis /// górdon                                            1
+górdon /// pedro                                            1
+dênis /// pedro                                             1
+apanhe /// válter                                           1
+apanhe /// duda                                             1
+cutuque /// duda                                            1
+railview /// válter                                         1
+railview /// sr. h. potter quarto                           1
+sr. h. potter quarto /// válter                             1
+guardião das chaves /// rúbeo hagrid                        1
+hagrid /// válter dursley                                   1
+prezado sr. potter,
+temos /// v. sa                         1
+entreguei /// sr. dumbledore                                1
+hagrid /// válter                                           1
+hagrid /// petúnia                                          1
+duda /// hagrid                                             1
+dê /// hagrid                                               1
+hagrid /// voando                                           1
+cornélio fudge /// dumbledore                               1
+dóris crockford /// sr. potter                              1
+c-c-conhecê-lo /// quirrell                                 1
+hein /// potter                                             1
+acho /// dursley                                            1
+hum /// sr. olivaras                                        1
+olivaras /// sr. potter                                     1
+freguês /// hein                                            1
+hagrid /// sr. olivaras                                     1
+pagou /// sr. olivaras                                      1
+hagrid /// paddington                                       1
+quirrell /// sr. olivaras                                   1
+dursley /// edwiges                                         1
+ah /// neville                                              1
+certo /// rony                                              1
+carlinhos /// gui                                           1
+duda /// rony                                               1
+agripa /// ptolomeu                                         1
+alberico grunnion /// dumbledore                            1
+dumbledore /// hengisto de woodcroft                        1
+dumbledore /// paracelso                                    1
+circe /// dumbledore                                        1
+alberico grunnion /// hengisto de woodcroft                 1
+alberico grunnion /// paracelso                             1
+alberico grunnion /// circe                                 1
+hengisto de woodcroft /// paracelso                         1
+circe /// hengisto de woodcroft                             1
+circe /// paracelso                                         1
+andei /// dumbledore                                        1
+rony /// sabe                                               1
+gringotes /// papai                                         1
+hagrid /// hera                                             1
+hagrid /// minerva mcgonagall                               1
+profa /// voltarei                                          1
+teorêncio /// terêncio boot                                 1
+ana /// teorêncio                                           1
+ana /// terêncio boot                                       1
+lilá brown /// rony                                         1
+mádi brocklehurst /// rony                                  1
+lilá brown /// mádi brocklehurst                            1
+hermione granger! /// simas finnigan                        1
+morag macdougal /// neville                                 1
+moon /// sara                                               1
+moon /// perks                                              1
+perks /// sara                                              1
+percy /// weasley                                           1
+lisa turpin /// rony                                        1
+blás zabini /// percy weasley                               1
+chapéu seletor /// minerva                                  1
+nicholas de mimsy /// simas finnigan                        1
+enid /// tio algi                                           1
+hermione /// percy                                          1
+dumbledore /// weasley                                      1
+dumbledore /// percy                                        1
+hoggy warty hogwarts /// quer                               1
+estudaremos /// faça                                        1
+malfoy /// snape                                            1
+argo filch /// pior                                         1
+binns /// emerico                                           1
+quirrell /// simas finnigan                                 1
+quirrell /// weasley                                        1
+edwiges /// rony                                            1
+draco malfoy /// goyle                                      1
+crabbe /// draco malfoy                                     1
+casa dos dursley /// snape                                  1
+potter /// snape                                            1
+menino /// neville                                          1
+levem-no /// snape                                          1
+levem-no /// simas                                          1
+simas /// snape                                             1
+ouvi /// snape                                              1
+rony /// ânimo                                              1
+fred /// snape                                              1
+jorge /// snape                                             1
+draco /// duda                                              1
+dino thomas /// rony                                        1
+draco /// hagrid                                            1
+draco /// parvati patil                                     1
+acho /// draco                                              1
+acho /// neville                                            1
+flitwick /// wood                                           1
+minerva /// olívio wood                                     1
+mal /// severo snape                                        1
+draco /// jorge                                             1
+goyle /// jorge                                             1
+crabbe /// jorge                                            1
+draco /// fred                                              1
+fred /// goyle                                              1
+crabbe /// fred                                             1
+jogue /// rony                                              1
+aposto /// rony                                             1
+hermione /// nem neville                                    1
+minerva mcgonagall harry /// rony                           1
+flitwick /// rony                                           1
+draco /// flitwick                                          1
+draco /// potter                                            1
+minerva /// potter                                          1
+certo /// olívio                                            1
+acho /// olívio                                             1
+flitwick /// neville                                        1
+neville /// simas finnigan                                  1
+hermione granger /// rony                                   1
+lilá /// rony                                               1
+parvati /// rony                                            1
+hermione /// lilá                                           1
+lilá /// parvati                                            1
+acabei /// hermione                                         1
+percy /// snape                                             1
+barão sangrento /// rony                                    1
+barão sangrento /// hermione                                1
+minerva /// quirrell                                        1
+minerva /// srta                                            1
+hermione granger /// profa                                  1
+grifinória /// profa                                        1
+grifinória /// hermione granger                             1
+rony /// simas                                              1
+hermione /// simas                                          1
+fred /// olívio                                             1
+marcos flint /// sonserina                                  1
+alícia spinnet /// olívio wood                              1
+alícia spinnet /// johnson                                  1
+johnson /// olívio wood                                     1
+bletchley /// fred                                          1
+fred /// johnson                                            1
+adriano pucey /// fred                                      1
+bletchley /// jorge weasley                                 1
+bletchley /// johnson                                       1
+adriano pucey /// bletchley                                 1
+johnson /// jorge weasley                                   1
+adriano pucey /// jorge weasley                             1
+adriano pucey /// johnson                                   1
+pucey /// weasley                                           1
+bell /// pucey                                              1
+bell /// weasley                                            1
+dino /// hagrid                                             1
+bell /// spinnet                                            1
+descobri /// hagrid                                         1
+hagrid /// seja                                             1
+seja /// snape                                              1
+hermione /// nicolau flamel                                 1
+flamel /// hagrid                                           1
+flamel /// snape                                            1
+madame pince /// rony                                       1
+flamel /// hermione                                         1
+hermione /// madame pince                                   1
+flamel /// madame pince                                     1
+fred /// j.                                                 1
+j. /// jorge                                                1
+forge /// jred                                              1
+fred /// monitor                                            1
+jorge /// monitor                                           1
+madame /// rony                                             1
+madame /// snape                                            1
+dumbledore /// sim                                          1
+prof /// senhor                                             1
+falando /// snape                                           1
+finja /// hermione                                          1
+perenelle /// sr. flamel                                    1
+aposto /// gringotes                                        1
+aposto /// dumbledore                                       1
+dumbledore /// gringotes                                    1
+mal /// rony                                                1
+harry /// mal                                               1
+hermione /// mal                                            1
+hermione /// locomotor mortis                               1
+lufa-lufa /// snape                                         1
+jorge weasley /// snape                                     1
+dracos /// malfoy                                           1
+draco /// dracos                                            1
+dracos /// goyle                                            1
+dracos /// rony                                             1
+crabbe /// dracos                                           1
+draco /// malfoy                                            1
+potter /// weasley                                          1
+goyle /// hermione                                          1
+crabbe /// hermione                                         1
+goyle /// snape                                             1
+crabbe /// snape                                            1
+crabbe /// neville                                          1
+dumbledore /// grifinória                                   1
+grifinória /// snape                                        1
+hagrid /// severo                                           1
+imagino /// snape                                           1
+imagino /// quirrell                                        1
+quirrell /// rony                                           1
+dumbledore /// quirrell                                     1
+edwiges /// hagrid                                          1
+hagrid /// herbologia                                       1
+decidi /// hagrid                                           1
+dumbledore /// malfoy                                       1
+madame pomfrey /// malfoy                                   1
+carlinhos /// malfoy                                        1
+madame pomfrey /// rony                                     1
+hagrid /// pirraça                                          1
+hagrid /// norberto                                         1
+malfoy /// minerva                                          1
+minerva /// neville                                         1
+acho /// profa                                              1
+encarou hagrid /// hagrid                                   1
+canino /// draco                                            1
+hagrid /// harry                                            1
+cautela /// hagrid                                          1
+hagrid /// olá                                              1
+agouro /// hagrid                                           1
+agouro /// olá                                              1
+acabavam /// hagrid                                         1
+acabavam /// hermione                                       1
+agouro /// tomei                                            1
+firenze /// hagrid                                          1
+firenze /// voldemort                                       1
+fofo /// snape                                              1
+dumbledore /// neville                                      1
+fofo /// hagrid                                             1
+fofo /// voldemort                                          1
+agouro /// firenze                                          1
+dumbledore /// hermione                                     1
+dumbledore /// potter                                       1
+rony /// weasley                                            1
+mulher gorda /// “                                          1
+mulher gorda /// snape                                      1
+hermione /// mulher gorda                                   1
+snape /// “                                                 1
+hermione /// “                                              1
+lino jordan /// rony                                        1
+neville /// trevo                                           1
+barão /// espero                                            1
+fofo /// hermione                                           1
+severo /// snape                                            1
+hermione granger /// snape                                  1
+quirrell /// sei                                            1
+quirrell /// vem                                            1
+quirrell /// saia                                           1
+mestre /// quirrell                                         1
+mestre /// voldemort                                        1
+quirrell /// voldemort “mate-o                              1
+aquilo /// quirrell                                         1
+sr. ronald weasley /// srta                                 1
+nicolau /// perenelle                                       1
+hermione /// voldemort                                      1
+hermione /// quirrell                                       1
+dumbledore /// fiz rony                                     1
+herbologia /// neville                                      1
+gina weasley /// rony                                       1
