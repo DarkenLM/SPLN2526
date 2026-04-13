@@ -7,6 +7,9 @@
 
 ## Lista de Resultados
 - [TPC 1](./TPC1/README.md)
+- [TPC 2](./TPC2/README.md)
+- [TPC 3](./TPC3/README.md)
+- [TPC 4](./TPC4/README.md)
 
 ___
 
