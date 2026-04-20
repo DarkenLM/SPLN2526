@@ -1,0 +1,85 @@
+{
+    "authorName": "Rafael Santos Fernandes",
+    "authorId": "PG60298",
+    "authorPhoto": "../assets/img/foto.jpg",
+
+    "tpcNum": 5,
+    "title": "Semana 9",
+    "summary": "Este trabalho incidiu sobre o treino de um modelo NER utilizando a ferramenta spaCy.",
+    "results": {
+        "Datasets": [
+            {
+                "name": "Informação Alvo",
+                "desc": [
+                    "É pretendido treinar um modelo NER a partir dos datasets presentes em `lfcc/portuguese_ner`."
+                ]
+            },
+            {
+                "name": "Tratamento dos Datasets",
+                "desc": [
+                    "Para cada dataset (train e dev), tokens que contenham entidades nomeadas fragmentadas são concatenados num único, referente á entidade em questão."
+                ]
+            }
+        ],
+        "Modelo Final": [
+            {
+                "name": "Métricas",
+                "desc": [
+                    "As seguintes métricas foram obtidas ao fim de 30 *epochs* de treino. As métricas **F-Score**, **Precision** e **Recall** foram extraídas das colunas `ENTS_F`, `ENTS_P` e `ENTS_R`, respetivamente, do output do comando `train` do spaCy.",
+                    "- **F-Score:** 94.44",
+                    "- **Precision:** 94.46",
+                    "- **Score:** 0.94"
+                ]
+            },
+            {
+                "name": "Testes",
+                "desc": [
+                    "Foi criada uma bateria de testes (ver [useModel.py](./useModel.py)) para avaliar a performance do modelo.",
+                    "Durante a mesma, várias entidades não foram reconhecidas, o que coloca em questão a qualidade do modelo."
+                ]
+            }
+        ],
+        "Scripts": [
+            {
+                "name": "model.sh",
+                "file": "./model.sh",
+                "desc": [
+                    "Ponto de entrada para todo o processo de treino e teste do modelo. Uma utilização normal deste script utiliza os comandos `prepare`+ -> `init` -> `train` -> `test`.",
+                    "Use `model.sh -h` para mais informações acerca do script.",
+                    "",
+                    "Para referẽncia, os seguintes comandos foram utilizados:",
+                    "```",
+                    "./model.sh -m arquivo_ner_train.iob prepare",
+                    "./model.sh -m arquivo_ner_test.iob prepare",
+                    "./model.sh init",
+                    "./model.sh -d -o outputs train --paths.train datasets/arquivo_ner_train.spacy --paths.dev datasets/arquivo_ner_test.spacy",
+                    "./model.sh -d test",
+                    "```"
+                ]
+            },
+            {
+                "name": "makeModel.py",
+                "file": "./makeModel.py",
+                "desc": [
+                    "Criado para extraír o dataset lfcc/portuguese_ner da HuggingFace.",
+                    "> NOTA: Não devidamente testado, devido a falhas de conexão com a HF durante os testes."
+                ]
+            },
+            {
+                "name": "useModel.py",
+                "file": "./useModel.py",
+                "desc": [
+                    "Criado para testar o modelo treinado."
+                ]
+            },
+            {
+                "name": "dlmcmd.sh",
+                "file": "./dlmcmd.sh",
+                "desc": [
+                    "Utilitário para a geração automática de CLIs em bash, no qual eu talvez ou talvez não tenha afundado a maior parte do tempo alocado para este TPC.",
+                    "> NOTA: Incompleto e não funcional aquando da data de entrega deste TPC."
+                ]
+            }
+        ]
+    }
+}

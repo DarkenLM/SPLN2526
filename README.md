@@ -10,6 +10,7 @@
 - [TPC 2](./TPC2/README.md)
 - [TPC 3](./TPC3/README.md)
 - [TPC 4](./TPC4/README.md)
+- [TPC 5](./TPC5/README.md)
 
 ___
 
