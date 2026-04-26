@@ -1,0 +1,10 @@
+brown fox over dog|1,2
+machine learning models|3,4,5
+natural language processing transformers|8,9,14
+text ranking tf idf|10
+information retrieval ranking|10,11
+financial market investors|12,13
+python data science libraries|14,15
+football world cup|17,18
+basketball scoring hoop|19
+renewable energy climate change|20,21
